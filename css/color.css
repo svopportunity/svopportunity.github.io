@@ -2,7 +2,12 @@
 a,.tp-caption a.btn:hover {
 	color: #008897;
 }
+
 .top-nav-collapse {
+	background: #008897;
+}
+
+.top-nav-collapse.container {
 	background: #008897;
 }
 
@@ -35,4 +40,8 @@ footer {
   color: #fff;
   background-color: #008897;
   border-color: #008897;
+}
+
+.mask-font {
+    color: rgba(255, 255, 255, .91)
 }
