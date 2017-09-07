@@ -325,6 +325,14 @@ hr {
 	display:-webkit-flex;
 	align-items:center
 }
+#challenge3 {
+	background:url(../img/sv/pic9.jpg) #ffffff fixed;
+	height:700px;
+	width:auto;
+	display:flex;
+	display:-webkit-flex;
+	align-items:center
+}
 .boxed-grey {
 	background:#f9f9f9;
 	padding:20px
