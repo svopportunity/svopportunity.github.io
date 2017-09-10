@@ -44,7 +44,6 @@ a:hover,a:focus {
 }
 .navbar {
 	margin-bottom:0;
-	border-bottom:1px solid rgba(255,255,255,.3)
 }
 .navbar-brand {
 	font-weight:700
