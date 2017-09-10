@@ -657,6 +657,9 @@ footer p {
 .navbar.navbar-custom.navbar-fixed-top {
 	margin-bottom:30px
 }
+.service-block {
+	padding: 10px 0	
+}
 .tp-banner-container {
 	padding-top:40px
 }
