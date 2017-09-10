@@ -639,7 +639,7 @@ footer p {
 .slide .slogan h2 {
     color: #FFF;
     text-shadow: none;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 20px;
     font-weight: 700;
     font-family: Montserrat,sans-serif;
@@ -669,7 +669,7 @@ footer p {
 	font-weight:bold;
 }
 .section-heading h3 {
-	font-size:22px;
+	font-size:20px;
 	text-align:initial;
 	text-indent:42px
 }
