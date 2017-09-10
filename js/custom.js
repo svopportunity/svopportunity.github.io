@@ -37,7 +37,7 @@
 	
 	// Navbar
 	$(document).ready(function(){
-  		$("li").click(function(){
+  		$(".dropmenu>li>a").click(function(){
     			$(".dropmenu").hide();
   		});
 	});
