@@ -695,4 +695,17 @@ footer p {
 	border-radius:50%;
 	font-size:20px
 }
+.dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.428571429;
+    color: rgba(255,255,255,.75);
+    white-space: nowrap;
+}
+.dropdown-menu > li > a:hover {
+    background: rgba(255,255,255,.75);
+    color: #008897
+}
 }
