@@ -660,6 +660,11 @@ footer p {
 .tp-banner-container {
 	padding-top:40px
 }
+.heading-title {
+	text-align:center;
+	font-size:28px;
+	font-weight:bold;
+}
 .page-scroll a.btn-circle {
 	width:40px;
 	height:40px;
