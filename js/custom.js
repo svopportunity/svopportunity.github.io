@@ -34,5 +34,12 @@
 			event.preventDefault();
 		});
 	});
+	
+	// Navbar
+	$(document).ready(function(){
+  		$("li").click(function(){
+    			$(".dropmenu").hide();
+  		});
+	});
 
 })(jQuery);
