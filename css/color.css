@@ -45,3 +45,9 @@ footer {
 .mask-font {
     color: rgba(255, 255, 255, .91)
 }
+
+@media(max-width:480px) {
+	.top-nav-collapse {
+		background: transparent;
+	}
+}
