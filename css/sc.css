@@ -665,8 +665,13 @@ footer p {
 }
 .heading-title {
 	text-align:center;
-	font-size:28px;
+	font-size:24px;
 	font-weight:bold;
+}
+.section-heading h3 {
+	font-size:22px;
+	text-align:initial;
+	text-indent:42px
 }
 .page-scroll a.btn-circle {
 	width:40px;
