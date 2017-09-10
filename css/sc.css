@@ -651,8 +651,21 @@ footer p {
     border-style: none;
     text-shadow: -1px 0 1px #000;
 }
+.slide-top {
+	margin-top:46px
+}
+.navbar-header {
+	background-color: #008897;
+	height: 50px;
+}
 .navbar-custom .nav.navbar-nav {
 	background-color:rgba(255,255,255,.4)
+}
+.navbar-dropdown {
+	height: auto;
+	width: 100%;
+	background: rgba(0,0,0,.5);
+	text-align: center;
 }
 .navbar.navbar-custom.navbar-fixed-top {
 	margin-bottom:30px
