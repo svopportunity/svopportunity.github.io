@@ -34,12 +34,5 @@
 			event.preventDefault();
 		});
 	});
-	
-	// Navbar
-	$(document).ready(function(){
-  		$(".dropmenu>li>a").click(function(){
-    			$(".dropmenu").hide();
-  		});
-	});
 
 })(jQuery);
