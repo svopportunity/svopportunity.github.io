@@ -318,20 +318,12 @@ hr {
 	height:560px
 }
 #challenge {
-	background:url(../img/sv/pic6.jpeg) #ffffff fixed;
-	height:300px;
-	width:auto;
-	display:flex;
-	display:-webkit-flex;
-	align-items:center
+	background:url(../img/sv/pic6.jpeg);
+	background-size:100% 100%;
 }
 #challenge3 {
-	background:url(../img/sv/pic9.jpg) #ffffff fixed;
-	height:250px;
-	width:auto;
-	display:flex;
-	display:-webkit-flex;
-	align-items:center
+	background:url(../img/sv/pic9.jpg);
+	background-size:100% 100%;
 }
 .heading-text2 {
 	color:grey;
