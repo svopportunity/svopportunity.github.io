@@ -318,7 +318,7 @@ hr {
 	height:560px
 }
 #challenge {
-	background:url(../img/sv/pic6.jpeg) #ffffff fixed;
+	background:url(../img/sv/pic6.jpg) #ffffff fixed;
 	height:100%;
 	width:auto;
 	display:flex;
@@ -326,7 +326,7 @@ hr {
 	align-items:center
 }
 #challenge3 {
-	background:url(../img/sv/pic9.jpg) #ffffff fixed;
+	background:url(../img/sv/pic7.jpg) #ffffff fixed;
 	height:450px;
 	width:auto;
 	display:flex;
