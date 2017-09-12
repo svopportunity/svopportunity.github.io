@@ -11,7 +11,7 @@ html {
 	height:100%
 }
 h1,h2,h3,h4,h5,h6 {
-	margin:0 0 30px;
+	margin:0 0 20px;
 	text-transform:uppercase;
 	font-family:Montserrat,sans-serif;
 	font-weight:700;
@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 p {
 	margin:0 0 20px;
-	font-size:16px;
+	font-size:14px;
 	line-height:1.6em
 }
 p.lead {
@@ -51,12 +51,12 @@ a:hover,a:focus {
 .navbar-brand {
 	height:60px;
 	padding:5px 20px;
-	font-size:18px;
+	font-size:14px;
 	line-height:1em
 }
 .navbar-brand h1 {
 	color:#fff;
-	font-size:20px;
+	font-size:16px;
 	line-height:40px
 }
 .navbar-brand:focus {
@@ -86,7 +86,7 @@ a:hover,a:focus {
 	background-color:rgba(0,0,0,0)
 }
 .navbar-custom ul.nav li a {
-	font-size:16px;
+	font-size:12px;
 	letter-spacing:1px;
 	color:rgba(255,255,255,0.57);
 	text-transform:uppercase;
@@ -204,7 +204,7 @@ hr {
 	margin-bottom:20px!important
 }
 .marginbot-30 {
-	margin-bottom:30px!important
+	margin-bottom:20px!important
 }
 .marginbot-40 {
 	margin-bottom:40px!important
@@ -213,18 +213,17 @@ hr {
 	margin-bottom:50px!important
 }
 .home-section {
-	padding-top:60px;
-	padding-bottom:60px;
+	padding-top:10px;
+	padding-bottom:30px;
 	display:block;
 	position:relative;
 	z-index:120
 }
 .section-heading h2 {
-	font-size:40px
+	font-size:25px
 }
 .section-heading h3 {
-	margin: 100px auto;
-	font-size:24px;
+	font-size:18px;
 	text-align:initial;
 	text-indent:42px
 }
@@ -260,7 +259,7 @@ hr {
 	text-align:center
 }
 .brand-heading {
-	font-size:40px
+	font-size:25px
 }
 .slide-height {
 	height:810px
@@ -271,7 +270,7 @@ hr {
 .slide .slogan h2 {
 	color:#FFF;
 	text-shadow:none;
-	font-size:60px;
+	font-size:30px;
 	line-height:60px;
 	font-weight:700;
 	font-family:Montserrat,sans-serif;
@@ -288,19 +287,19 @@ hr {
 	text-shadow:-1px 1px 1px #000
 }
 .slogan-strong {
-	font-size:48px
+	font-size:25px
 }
 .heading-span {
 	color:#00a2ae
 }
 .heading-title {
 	text-align:center;
-	font-size:36px;
+	font-size:25px;
 	font-weight:bold;
 }
 .heading-subtitle {
 	text-align:center;
-	font-size:24px;
+	font-size:20px;
 	font-weight:bold;
 }
 .heading-img {
@@ -309,17 +308,18 @@ hr {
 }
 .heading-text {
 	color:grey;
-	font-size:20px;
+	font-size:14px;
 	text-align:left;
-	text-indent:42px;
+	text-indent:30px;
 	text-align:justify
 }
+
 .interns-height {
-	height:560px
+	height:460px
 }
 #challenge {
 	background:url(../img/sv/pic6.jpeg) #ffffff fixed;
-	height:100%;
+	height:300px;
 	width:auto;
 	display:flex;
 	display:-webkit-flex;
@@ -327,17 +327,15 @@ hr {
 }
 #challenge3 {
 	background:url(../img/sv/pic9.jpg) #ffffff fixed;
-	height:450px;
+	height:250px;
 	width:auto;
 	display:flex;
 	display:-webkit-flex;
 	align-items:center
-	text-align:center;
-	margin: 100px auto;
 }
 .heading-text2 {
 	color:grey;
-	font-size:20px;
+	font-size:14px;
 	text-align:center;
 	text-align:justify
 }
@@ -353,6 +351,7 @@ hr {
 }
 .avatar {
 	margin-bottom:20px
+
 }
 .team-social {
 	margin-left:0;
@@ -388,7 +387,7 @@ hr {
 	margin-bottom:20px
 }
 .service-text {
-	font-size:22px
+	font-size:14px
 }
 form#contact-form .form-group label {
 	text-align:left!important;
@@ -505,7 +504,7 @@ footer p {
 	padding:7px 16px;
 	border:2px solid #fff;
 	border-radius:50%;
-	font-size:40px;
+	font-size:25px;
 	color:#fff;
 	background:0;
 	-webkit-transition:background .3s ease-in-out;
@@ -547,7 +546,7 @@ footer p {
 }
 .format-text {
 	text-align:justify;
-	text-indent:36px
+	text-indent:30px;
 }
 @-webkit-keyframes pulse {
 	0{-webkit-transform:scale(1);
@@ -593,7 +592,7 @@ footer p {
 }
 .btn-huge {
 	padding:25px;
-	font-size:26px
+	font-size:20px
 }
 .banner-social-buttons {
 	margin-top:0
@@ -632,21 +631,21 @@ footer p {
 	height:auto
 }
 .brand-heading {
-	font-size:100px
+	font-size:50px
 }
 .slide-text {
 	font-size:25px
 }
 }@media(max-width:768px) {
 	.team.boxed-grey {
-	margin-bottom:30px
+	margin-bottom:20px
 }
 .boxed-grey {
-	margin-bottom:30px
+	margin-bottom:20px
 }
 }@media(max-width:480px) {
 .slide-height {
-	height:320px	
+	height:250px	
 }
 .slide .slogan h2 {
     color: #FFF;
@@ -680,7 +679,7 @@ footer p {
 	text-align: center;
 }
 .navbar.navbar-custom.navbar-fixed-top {
-	margin-bottom:30px
+	margin-bottom:20px
 }
 .service-block {
 	padding: 10px 0	
@@ -689,7 +688,6 @@ footer p {
 	padding-top:40px
 }
 .heading-title {
-	padding-top:50px;
 	text-align:center;
 	font-size:24px;
 	font-weight:bold;
